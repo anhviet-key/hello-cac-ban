@@ -1,0 +1,17 @@
+body {
+    background-color: orange;
+    height: 90vh;
+    display: flex;
+}
+
+.mobile,
+.tablet,
+.pc {
+    font-size: 100px;
+    color: #fff;
+    margin: auto;
+    display: none;
+}
+
+
+/* Mobile: wi */

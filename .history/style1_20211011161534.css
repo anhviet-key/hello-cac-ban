@@ -1,0 +1,13 @@
+body {
+    background-color: orange;
+    height: 100vh;
+    display: block;
+}
+
+.mobile,
+.tablet,
+.pc {
+    font-size: 50px;
+    color: #fff;
+    margin: auto;
+}
